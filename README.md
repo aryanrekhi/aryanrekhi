@@ -26,4 +26,5 @@
 <img src="https://user-images.githubusercontent.com/72397731/153708785-f6614314-47b7-4ead-9df4-4ed6dbd63492.png" alt="My SQL" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-
+<!--  <img src ="https://github-readme-stats.vercel.app/api?username=aryanrekhi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+ -->
