@@ -1,15 +1,18 @@
 ### YO 👋
+### Hey Its me, Aryan ! 
+![BQM6jEZ-UJLgGUuvrNkYUA_-uy323Lmm-sKjPAdaNglIQNrH0fxgefG_hxgLsx4DRVxJYwWBrwzswJu1gKe1QA](https://user-images.githubusercontent.com/72397731/153709110-0f8f9bfc-51a3-47e5-9ec5-31c7a56300b3.gif)
 
 
-- 🔭 I’m currently working on game making 
+
+- 🔭 I’m currently working on Game Dev 
 - 🌱 I’m currently learning Unity , Unreal Engine , Blender , C#
 - 💬 Ask me about Python , Java or any tech related stuff :)
-- 📫 How to reach me: ig : @aryanrekhi
+- 📫 How to reach me <img src="https://user-images.githubusercontent.com/72397731/153709370-bfdb4de7-7ad3-4a1c-8289-2ed9b147b782.png" alt="Instagram" height="30" style="vertical-align:top; margin:4px"> : @aryanrekhi
 - ⚡ Fun fact: Vegeta Was Meant to Be a One-Off Character.
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/72397731/153708888-31b74309-3474-4638-b1e6-69dff5a75024.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/72397731/153707963-6199769b-493e-4c87-ac93-54a0986181d0.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -21,3 +24,4 @@
 <img src="https://user-images.githubusercontent.com/72397731/153708785-f6614314-47b7-4ead-9df4-4ed6dbd63492.png" alt="My SQL" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+
