@@ -9,8 +9,9 @@
 - ⚡ Fun fact: Vegeta Was Meant to Be a One-Off Character. <br>
   </p>
 
-![BQM6jEZ-UJLgGUuvrNkYUA_-uy323Lmm-sKjPAdaNglIQNrH0fxgefG_hxgLsx4DRVxJYwWBrwzswJu1gKe1QA](https://user-images.githubusercontent.com/72397731/153709110-0f8f9bfc-51a3-47e5-9ec5-31c7a56300b3.gif)
-
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/72397731/153709110-0f8f9bfc-51a3-47e5-9ec5-31c7a56300b3.gif">
+</p>
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
