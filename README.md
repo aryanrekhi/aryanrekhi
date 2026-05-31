@@ -1,30 +1,65 @@
-<p align="center" width="100%">
-    <img width="100%" src="https://user-images.githubusercontent.com/72397731/153712233-811275f7-793c-4a2e-a1bd-6f632db8ce8a.gif">
-</p>
-<p>
-- 🔭 I’m currently working on Game Dev <br>
-- 🌱 I’m currently learning Unity , Unreal Engine , Blender , C# <br>
-- 💬 Ask me about Python , Java or any tech related stuff :) <br>
-- 📫 How to reach me <img src="https://user-images.githubusercontent.com/72397731/153709370-bfdb4de7-7ad3-4a1c-8289-2ed9b147b782.png" alt="Instagram" height="30" style="vertical-align:top; margin:4px"> : @aryanrekhi <br>
-- ⚡ Fun fact: Vegeta Was Meant to Be a One-Off Character. <br>
-  </p>
+<div align="center">
 
-<p align="center" width="100%">
-    <img width="33%" src="https://user-images.githubusercontent.com/72397731/153709110-0f8f9bfc-51a3-47e5-9ec5-31c7a56300b3.gif">
-</p>
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153708888-31b74309-3474-4638-b1e6-69dff5a75024.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153707963-6199769b-493e-4c87-ac93-54a0986181d0.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153708686-58b21757-e630-4577-9c43-f854c7973139.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153708250-257c5ba8-d7ab-4843-a1ee-6edcf8e187bb.jpg" alt="blender" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153708513-fe3b33d7-c2f7-4288-b54e-ce7e92296c93.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153708583-cf8d4e92-b486-4f77-ac80-d290f8c0c470.png" alt="Flash" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153708619-2ecd04c2-e2e1-47a4-a694-0e79d51d43cb.png" alt="Preniere Pro" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/72397731/153708785-f6614314-47b7-4ead-9df4-4ed6dbd63492.png" alt="My SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="./aryan_banner.png" alt="Aryan Rekhi — Solutions Engineer, XR & Spatial AI" width="100%" />
 
-</p>
-<!--  <img src ="https://github-readme-stats.vercel.app/api?username=aryanrekhi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
- -->
+<br><br>
+
+<a href="https://linkedin.com/in/aryanrekhi"><img src="https://img.shields.io/badge/LinkedIn-16150F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:aryanrekhiarz@gmail.com"><img src="https://img.shields.io/badge/Email-16150F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://twitter.com/imaryanrekhi"><img src="https://img.shields.io/badge/X-16150F?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+
+</div>
+
+<br>
+
+I help Fortune-500 and government organizations turn immersive **XR and Spatial AI** technology into deployed, working solutions — from technical discovery and live executive demos through architecture, QA, and rollout.
+
+Currently a **Solutions Engineer at EON Reality**, working at the intersection of customers, product, and engineering across India & APAC.
+
+<br>
+
+### Selected work
+
+&nbsp;&nbsp;**—**&nbsp;&nbsp; Led solutions engineering for an XR & Spatial AI platform across enterprise and government accounts
+
+&nbsp;&nbsp;**—**&nbsp;&nbsp; Ran a 2-day train-the-trainer programme enabling 5 skill centres to build XR independently · 92% positive feedback
+
+&nbsp;&nbsp;**—**&nbsp;&nbsp; Demonstrated the platform live to a state Chief Minister at a training-centre launch
+
+&nbsp;&nbsp;**—**&nbsp;&nbsp; Supported a flagship government deployment serving 170,000+ learners
+
+&nbsp;&nbsp;**—**&nbsp;&nbsp; Built AI object-detection models improving recognition accuracy ~20%
+
+<br>
+
+### Tooling
+
+<img src="https://img.shields.io/badge/Unity-16150F?style=flat-square&logo=unity&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-16150F?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/C%23-16150F?style=flat-square&logo=csharp&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-16150F?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Blender-16150F?style=flat-square&logo=blender&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Unreal-16150F?style=flat-square&logo=unrealengine&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-16150F?style=flat-square&logo=git&logoColor=white"/>
+
+<br>
+
+### Selected projects
+
+&nbsp;&nbsp;**Neural Style Transfer** &nbsp;·&nbsp; Python, PyTorch &nbsp;—&nbsp; dilated-CNN pipeline, ~12% faster processing
+
+&nbsp;&nbsp;**Symphony Stitch** &nbsp;·&nbsp; Unity, Photon, C# &nbsp;—&nbsp; multiplayer co-op built to study player retention
+
+&nbsp;&nbsp;**Senso** &nbsp;·&nbsp; Unity, C# &nbsp;—&nbsp; action game with adaptive enemy AI and dynamic inventory
+
+<br>
+
+### Education
+
+&nbsp;&nbsp;**B.Tech, Computer Science** — Bennett University · CGPA 8.82 / 10 · scholarship every semester
+
+<br>
+
+<div align="center">
+<sub>Open to remote Solutions Engineer / Customer Success Engineer roles with US & EU teams.</sub>
+</div>
